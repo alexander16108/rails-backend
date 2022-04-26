@@ -2,7 +2,7 @@
 This is a 
 
 # Link to the React Repo
-[React Repo](https://github.com/alexander16108/react-frontend-app/tree/development)
+[React Repo](https://github.com/alexander16108/react-frontend-app/tree/develop)
 
 ## Built With
 - Ruby
